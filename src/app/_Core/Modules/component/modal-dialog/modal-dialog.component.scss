@@ -1,0 +1,14 @@
+.modal-dialog {
+    min-width: 1000px;
+
+    .modal-content {
+        .modal-body {
+            width: 100%;
+            height: auto;
+            iframe {
+                height: 568px;
+            }
+        }
+    }
+
+}
